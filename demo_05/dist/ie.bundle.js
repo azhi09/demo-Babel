@@ -1,0 +1,1 @@
+alert("\n    code: new Array(10).fill\n    output: ".concat(new Array(10).fill,"\n"));
